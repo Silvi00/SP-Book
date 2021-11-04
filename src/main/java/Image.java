@@ -5,15 +5,22 @@ public class Image implements Element{
         this.imageName = imageName;
     }
 
-    public String getImageName() {
-        return imageName;
-    }
-
-    public void setImageName(String imageName) {
-        this.imageName = imageName;
-    }
-
     public void print() {
         System.out.println("Image with name: " + this.imageName);
+    }
+
+    @Override
+    public void add(Element element) {
+
+    }
+
+    @Override
+    public void remove(Element element) {
+
+    }
+
+    @Override
+    public Element get(int i) {
+        return null;
     }
 }

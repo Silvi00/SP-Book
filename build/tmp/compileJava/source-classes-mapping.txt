@@ -1,20 +1,18 @@
 Author.java
  Author
-Element.java
- Element
+Section.java
+ Section
 Image.java
  Image
-SubChapter.java
- SubChapter
-Chapter.java
- Chapter
-Paragraph.java
- Paragraph
-Table.java
- Table
-Main.java
- Main
 TableOfContents.java
  TableOfContents
+Paragraph.java
+ Paragraph
 Book.java
  Book
+Table.java
+ Table
+Element.java
+ Element
+Main.java
+ Main
