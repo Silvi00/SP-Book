@@ -13,3 +13,10 @@ https://github.com/Silvi00/SP-Book/tree/e925e3a4a39e09e41ae4498969f19f3fe9bbea17
 https://github.com/Silvi00/SP-Book/tree/671808a1d4488d2b126bf1992f104833e952023e
 
 all good
+
+# Feedback lab5/6
+https://github.com/Silvi00/SP-Book/tree/16d2aa83eb3d42f2403808e606b6dd9b46bcd151
+
+no content
+
+# Proposed grade: 8
