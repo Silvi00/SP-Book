@@ -1,18 +1,28 @@
-Author.java
- Author
-Section.java
- Section
-Image.java
- Image
+RenderContentVisitor.java
+ RenderContentVisitor
 TableOfContents.java
  TableOfContents
-Paragraph.java
- Paragraph
+Visitor.java
+ Visitor
 Book.java
  Book
 Table.java
  Table
-Element.java
- Element
+Image.java
+ Image
+Author.java
+ Author
+Section.java
+ Section
 Main.java
  Main
+ImageProxy.java
+ ImageProxy
+DocumentManager.java
+ DocumentManager
+BookStatistics.java
+ BookStatistics
+Paragraph.java
+ Paragraph
+Element.java
+ Element
